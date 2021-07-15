@@ -41,6 +41,7 @@ class List{
         }
     }
 
+
     // ファイルの行数を取得します
     public static int getFileIndex(File f)throws IOException{
         BufferedReader br = null;
